@@ -1,0 +1,3 @@
+device\demo\repositories\device\irepositories\IDeviceRepository.class
+device\demo\repositories\device\mapper\DeviceMapper.class
+device\demo\repositories\device\repositories\DeviceRepository.class
