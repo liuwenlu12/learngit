@@ -1,1 +1,1 @@
-test avv:tree
+test avv:four
